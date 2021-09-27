@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @scholtik
+- 🌱 I’m currently learning C & Java
